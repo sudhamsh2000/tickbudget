@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/bench/">
+    <Project Path="bench/TickBudget.Bench/TickBudget.Bench.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/TickBudget.Core/TickBudget.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/TickBudget.Tests/TickBudget.Tests.csproj" />
+  </Folder>
+</Solution>
